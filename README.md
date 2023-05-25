@@ -1,0 +1,3 @@
+There are two ipynb files because my computer was struggling to run all of the codes in a singular notebook file. The first file, "Research Project Code" has a majority of the code in where I explore the datasets and work on the given simple CNN, LeNet-5, and a couple small modifications to LeNet-5 like hyperparameter tunings. The second file, "Machine_learning_Modified_Version_Of_LeNet" is the modified version of LeNet-5 with testing figures and all the different hyperparamer tunings I tried to get it to work better on CIFAR-10
+
+This project is a solo work.
